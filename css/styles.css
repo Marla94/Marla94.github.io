@@ -1,0 +1,103 @@
+.hdr, .ppag {
+    background-color: pink;
+    border-radius: 0px 50px 0px 50px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.hdr {
+    margin-bottom: 20px;
+    padding: 30px ;
+}
+.ppag {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.rrss {
+    word-spacing: 5px;
+}
+
+.bounce:hover, table img:hover {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.navop {
+    font-weight: bold;
+    font-size: 25px;
+    color: blue;
+    text-align: center;
+}
+
+.navpag {
+    color: white;
+    background-color: palevioletred;
+    border: solid;
+    border-color: palevioletred;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 3px 2px 3px black;
+}
+
+button.subs {
+    background-color: rosybrown;
+    height: 40px;
+    font-size: 90%;
+    border-radius: 10px;
+}
+
+button.subs:hover {
+    color: white;
+    background-color: darkred;
+}
+
+#me, #ptf, #hbb {
+    padding: 0px 0px 20px 20px;
+    border-color: pink;
+    border-radius: 0px 50px 0px 50px;
+}
+
+legend {
+    color: palevioletred;
+}
+
+div.content {
+    padding: 10px 40px 10px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+#banner, #pic1 {
+    height: 150px;
+    border-radius: 50%;
+}
+
+#LK, #X, #GH {
+    height: 3rem;
+}
+
+#pic1 {
+    float: left;
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+#thobbies img{
+    height: 200px;
+    border-radius: 50%;
+}
+
+#tproject img{
+    height: 100px;
+}
